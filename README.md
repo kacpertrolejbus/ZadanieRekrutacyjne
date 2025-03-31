@@ -1,2 +1,2 @@
-# ZadanieRekrutacyjne
-Gra powstała w celu wykonana zadania rekrutacyjnego do koła naukowego.  
+# ZadanieRekrut
+Gra powstała w celu wykonania zadania rekrutacyjnego do koła naukowego. 
